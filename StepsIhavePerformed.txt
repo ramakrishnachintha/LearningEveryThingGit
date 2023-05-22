@@ -2,3 +2,4 @@ created github account
 created new repository just by clicking repositories->new option->given name->added description[optional]
 after that i click on create a file-> do changes and-> commit changes option is there ->clicked , it's committed
 if directly edit, nothing will happen , means no tracking i guess
+created new branch newbranch->select that branch and editing .txt file and comitting
